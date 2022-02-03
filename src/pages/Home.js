@@ -20,7 +20,7 @@ function Home() {
           }}
           to="/menu"
         >
-          <botton>Order Now</botton>
+          Order Now
         </Link>
       </div>
     </div>
